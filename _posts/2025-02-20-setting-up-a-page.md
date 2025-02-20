@@ -11,7 +11,7 @@ render_with_liquid: false
 # Visual deployment
 
 1. Get the URL https://github.com/Yanghacker/Yanghacker.github.io to GitHub.
-2. When you edit your content, first add the Front Matter to your Markdown files.
+2. When you edit your content, first add the Front Matter to your Markdown files.???
     
     ![image.png](/Yanghacker/Yanghacker.github.io@master/assets/img/imgs/2025-02-20-setting-up-a-page-image.png)
     
