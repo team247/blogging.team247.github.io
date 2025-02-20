@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 #
 # e.g. 'https://cdn.com'
 # cdn: "https://chirpy-img.netlify.app"
-cdn: "https://github.com/Yanghacker/Yanghacker.github.io"
+cdn: "https://cdn.jsdelivr.net/gh"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/commons/avatar.jpg"
