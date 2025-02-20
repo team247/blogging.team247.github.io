@@ -1,7 +1,7 @@
 ---
 title: Setting up a page
 date: 2025-02-20 15:35:00 +0800
-description:->
+description: >-
  How to update and deploy some pages?
 categories: [Tutorial]
 tags: [writing]
