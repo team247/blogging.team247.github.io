@@ -8,7 +8,7 @@ tags: [writing]
 render_with_liquid: false
 ---
 
-# Visual deployment dsafdsafsdfs
+# Visual deployment 
 
 1. Get the URL https://github.com/Yanghacker/Yanghacker.github.io to GitHub.
 2. When you edit your content, first add the Front Matter to your Markdown files.
