@@ -6,7 +6,7 @@ categories: [Tutorial]
 render_with_liquid: false
 ---
 
-In this tutorial, we'll show you how to integrate **seat-based billing** into your existing app with **Stripe Checkout**. We will build this with Node.js and Express for the backend, utilizing Stripe's hosted checkout interface. You'll learn how to set up Stripe products, implement the checkout process, and manage seats in your application after successful purchases. 
+In this tutorial, we'll show you how to integrate **seat-based billing** into your existing app with **Stripe Checkout**. We'll build this with Node.js and Express for the backend, utilizing Stripe's hosted checkout interface. You'll learn how to set up Stripe products, implement the checkout process, and manage seats in your application after successful purchases. 
 
 ---
 
