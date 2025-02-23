@@ -1,9 +1,12 @@
 ---
-title: "How to Upload a Markdown Post to a GitHub Pages Blog"
-description: "A step-by-step guide to uploading a Markdown post to your GitHub-hosted blog."
+title: How to Upload a Markdown Post to a GitHub Pages Blog
+date: 2025-02-22 05:06:00 +0800
+description: >-
+ A step-by-step guide to uploading a Markdown post to your GitHub-hosted blog
 categories: [Tutorial]
 tags: [writing]
 render_with_liquid: false
+
 ---
 
 # How to Upload a Markdown Blog Post to a GitHub Pages Blog
@@ -11,7 +14,7 @@ render_with_liquid: false
 So, you’ve got a blog hosted on GitHub, and you want to add a new post in Markdown format? Don’t worry—I'll walk you through the process step by step. Even if you’re new to GitHub, you’ll be able to do this easily!
 
 
-![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-22-Steps-to-Upload-a-Markdown-Blog-Post-to-Github-visual selection.png)
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-22-Steps-to-Upload-a-Markdown-Post-to-Github-visual-selection.png)
 
 ## Step 1: Write Your Post in Markdown  
 
