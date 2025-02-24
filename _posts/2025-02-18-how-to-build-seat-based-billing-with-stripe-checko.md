@@ -35,8 +35,8 @@ In this tutorial, we'll show you how to integrate **seat-based billing** into yo
 5. Save the product by clicking **Add product**.
 
 ---
-
-**[Image Placeholder: Screenshot of the Stripe Dashboard with the "Add Product" form filled out, showing the product name, recurring billing, and pricing details.]**
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-1.png)
+_Screenshot of the Stripe Dashboard with the "Add Product" form filled out, showing the product name, recurring billing, and pricing details._
 
 ### 1.2 Note Your Product Price ID
 
