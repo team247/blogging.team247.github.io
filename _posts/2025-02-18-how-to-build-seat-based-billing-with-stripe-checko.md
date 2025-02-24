@@ -41,8 +41,8 @@ _Screenshot of the Stripe Dashboard with the "Add Product" form filled out, show
 ### 1.2 Note Your Product Price ID
 
 Once saved, copy the **Price ID** (e.g., `price_1HkZsJGfP2xD`), which will be used in your code.
-
-**[Image Placeholder: Screenshot of the Stripe Price ID shown in the product details page after saving.]**
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-2.png)
+_Screenshot of the Stripe Price ID shown in the product details page after saving._
 
 ---
 
@@ -64,8 +64,8 @@ stripe-seat-billing/
 ├── node_modules/         # Installed packages
 └── README.md
 ```
-
-**[Image Placeholder: architectural diagram showing different components and how they are working together]**
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-3.png)
+_architectural diagram showing different components and how they are working together._
 
 ## **Step 3: Leverage Stripe Customer Portal**
 
@@ -82,7 +82,8 @@ To simplify seat adjustments, you can enable Stripe’s **Customer Portal**. Thi
 - Reduces backend complexity.
 - Ensures a secure and user-friendly experience for customers.
 
-**[Image Placeholder: Screenshot of Stripe Customer Portal settings with "Adjust Quantities" enabled.]**
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-4.png)
+_Screenshot of Stripe Customer Portal settings_
 
 ## **Step 4: Add Stripe Checkout to Your Backend**
 
@@ -103,8 +104,8 @@ mkdir stripe-seat-billing && cd stripe-seat-billing
 npm init -y
 npm install express stripe dotenv body-parser
 ```
-
-**[Image Placeholder: Terminal screenshot showing the project setup commands and installed packages.]**
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-5.png)
+_Terminal screenshot showing the project setup commands and installed packages._
 
 ### 4.2 Configure Environment Variables
 
