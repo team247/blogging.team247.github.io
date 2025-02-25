@@ -64,7 +64,7 @@ stripe-seat-billing/
 ├── node_modules/         # Installed packages
 └── README.md
 ```
-![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-3.png)
+![image.png](/team247/team247.github.io@master/assets/img/imgs/2025-02-24-how-to-build-seat-based-billing-with-stripe-checko-03.png)
 _architectural diagram showing different components and how they are working together._
 
 ## **Step 3: Leverage Stripe Customer Portal**
